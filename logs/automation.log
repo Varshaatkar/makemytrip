@@ -1,0 +1,16 @@
+12:18:45.678 [main] INFO  testcase.TC2 - **** starting TC2  *****
+12:18:57.631 [main] INFO  testcase.TC2 - ****clicked on giftcards  *****
+12:18:57.891 [main] INFO  testcase.TC2 - **** random sender name is entered *****
+12:18:58.320 [main] INFO  testcase.TC2 - **** random phone number is entered *****
+12:18:58.675 [main] INFO  testcase.TC2 - **** random email is entered  *****
+12:19:01.598 [main] INFO  testcase.TC2 - **** clicked on buynow and captured error msg *****
+12:19:01.956 [main] INFO  testcase.TC2 - **** Took second testcase screenshot *****
+12:19:01.956 [main] INFO  testcase.TC2 - **** finished TC2  *****
+12:35:38.681 [main] INFO  testcase.TC2 - **** starting TC2  *****
+12:35:50.665 [main] INFO  testcase.TC2 - ****clicked on giftcards  *****
+12:35:50.935 [main] INFO  testcase.TC2 - **** random sender name is entered *****
+12:35:51.454 [main] INFO  testcase.TC2 - **** random phone number is entered *****
+12:35:51.849 [main] INFO  testcase.TC2 - **** random email is entered  *****
+12:35:55.274 [main] INFO  testcase.TC2 - **** clicked on buynow and captured error msg *****
+12:35:55.667 [main] INFO  testcase.TC2 - **** Took second testcase screenshot *****
+12:35:55.668 [main] INFO  testcase.TC2 - **** finished TC2  *****

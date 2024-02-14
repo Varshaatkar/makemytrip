@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-14T12:33:21 IST" name="Suite" finished-at="2024-02-14T12:35:57 IST" duration-ms="155981">
+    <groups>
+      <group name="giftcards">
+        <method signature="TC2.secondcase()[pri:2, instance:testcase.TC2@595b007d]" name="secondcase" class="testcase.TC2"/>
+      </group> <!-- giftcards -->
+    </groups>
+    <test started-at="2024-02-14T12:33:21 IST" name="Test1" finished-at="2024-02-14T12:35:57 IST" duration-ms="155981">
+      <class name="testcase.TC2">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testcase.TC2@595b007d]" started-at="2024-02-14T12:33:22 IST" name="setup" finished-at="2024-02-14T12:35:38 IST" duration-ms="136464" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="secondcase()[pri:2, instance:testcase.TC2@595b007d]" started-at="2024-02-14T12:35:38 IST" name="secondcase" finished-at="2024-02-14T12:35:55 IST" duration-ms="17009" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondcase -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcase.TC2@595b007d]" started-at="2024-02-14T12:35:55 IST" name="teardown" finished-at="2024-02-14T12:35:57 IST" duration-ms="1588" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testcase.TC2 -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>
